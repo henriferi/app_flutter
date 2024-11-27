@@ -1,16 +1,26 @@
-# prototipo2
+# Lista de Tarefas - Flutter
+Este é um aplicativo simples de lista de tarefas desenvolvido com Flutter. Ele permite adicionar, visualizar, marcar como concluídas e excluir tarefas. O projeto é ideal para quem está começando com Flutter ou precisa de um exemplo funcional para criar apps de produtividade.
 
-A new Flutter project.
+# ✨ Funcionalidades
+Adicionar novas tarefas.
+Exibir a lista de tarefas pendentes.
+Marcar tarefas como concluídas.
+Excluir tarefas concluídas ou pendentes.
 
-## Getting Started
+#🚀 Como iniciar o projeto
+Siga as etapas abaixo para rodar o projeto na sua máquina local:
 
-This project is a starting point for a Flutter application.
+Pré-requisitos
+Certifique-se de ter o Flutter instalado no seu sistema. Caso ainda não tenha configurado o Flutter, siga as instruções na documentação oficial do Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Etapas para rodar o projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##Clone o repositório ou baixe o código:
+git clone: https://github.com/henriferi/app_flutter.git
+cd: app_flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Instale as dependências do projeto:
+flutter pub get
+
+##Execute o aplicativo:
+flutter run
