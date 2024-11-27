@@ -7,7 +7,7 @@ Exibir a lista de tarefas pendentes.
 Marcar tarefas como concluídas.
 Excluir tarefas concluídas ou pendentes.
 
-#🚀 Como iniciar o projeto
+# 🚀 Como iniciar o projeto
 Siga as etapas abaixo para rodar o projeto na sua máquina local:
 
 Pré-requisitos
@@ -15,12 +15,15 @@ Certifique-se de ter o Flutter instalado no seu sistema. Caso ainda não tenha c
 
 Etapas para rodar o projeto
 
-##Clone o repositório ou baixe o código:
+## Clone o repositório ou baixe o código:
 git clone: https://github.com/henriferi/app_flutter.git
+
 cd: app_flutter
 
-##Instale as dependências do projeto:
+## Instale as dependências do projeto:
+
 flutter pub get
 
-##Execute o aplicativo:
+## Execute o aplicativo:
+
 flutter run
